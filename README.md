@@ -1,0 +1,2 @@
+# magento-theme-setting
+This Ves Magento 2 Theme Settings is supported you configure header, footer, categories page, category view page, contact Form, product cart. With well-structured and organization, you can easily configure entire parts of your theme. You don’t waste time to leave the page to tailor your theme. So you can save your time to do it and get effective result. It is very clear and eases to do it.
