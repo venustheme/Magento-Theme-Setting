@@ -6,7 +6,7 @@ This Ves Magento 2 Theme Settings is supported you configure header, footer, cat
 - Download from our Live site: http://www.venustheme.com/theme/venus-magento-2-theme-settings/
 - Get Support: https://landofcoder.ticksy.com/
 
-## 2. How to install Brand Extension
+## 2. How to install Extension
 
 ### Install via composer (recommend)
 
